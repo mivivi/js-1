@@ -75,4 +75,4 @@ xxx
 xxxx
 xxxxx*/
 
-for (var p = 'x'; p.length <= 20; console.log(p += 'x')) {}
+for (var p = ''; p.length <= 20; console.log(p += 'x')) {}
