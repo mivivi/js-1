@@ -1,0 +1,30 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+.big {
+    width: 550px;
+}
+
+#gallery {
+text-align: center;
+}
+
+
+#gallery img {
+    width: 250px;
+}   
+
+.big img {
+    width: 550px;
+}
+
+.btn {
+    text-align: center;
+    letter-spacing: 700px;
+}
+
+.btn input {
+    width: 100px;
+}
